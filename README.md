@@ -8,3 +8,5 @@
 - As possibilidades de API são infinitas
 
 - Sites como Google, Youtube, Facebook, Twitter, ArcGis e praticamente qualquer ferramenta/site grande tem uma API.
+
+- A Documentação da API (ou exemplos da internet) é a chave para conseguir usar uma API 
